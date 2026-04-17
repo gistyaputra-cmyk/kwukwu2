@@ -19,7 +19,7 @@ let products=[
 ["Template Website",100000,"1498050108023-c5249f4df085","Template siap pakai untuk berbagai kebutuhan."],
 ["Aplikasi Kasir",150000,"1556740749-887f6717d7e4","Aplikasi kasir modern untuk bisnis kecil."],
 ["Desain Logo",80000,"1626785774573-4b799315345d","Desain logo profesional dan unik."],
-["Study Hacks",60000,"https://i.ibb.co.com/21pdmNzM/IMG-20260417-WA0006.png","Belajar Cerdas, bukan belajar Keras."],
+["Study Hacks",60000,"https://ibb.co.com/q32pX5Hg","Belajar Cerdas, bukan belajar Keras."],
 ["Script Bot",90000,"1519389950473-47ba0277781c","Script bot otomatis untuk berbagai kebutuhan."],
 ["UI Kit",120000,"1559027615-cd4628902d4a","UI kit lengkap dan modern."],
 ["Game Assets",110000,"1511512578047-dfb367046420","Asset game berkualitas tinggi."],
